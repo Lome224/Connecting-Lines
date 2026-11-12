@@ -1,0 +1,24 @@
+# macOS metadata
+.DS_Store
+._*
+.Spotlight-V100/
+.Trashes/
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Arduino build outputs
+build/
+*.hex
+*.elf
+*.o
+
+# TouchDesigner generated files
+/TD/**/Backup/
+/TD/**/CrashAutoSave/
+/TD/**/*.toe.bak
+/TD/**/*.tox.bak

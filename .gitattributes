@@ -1,0 +1,11 @@
+* text=auto
+*.ino text eol=lf
+*.md text eol=lf
+*.maxpat text
+*.toe binary
+*.tox binary
+*.wav binary
+*.mov binary
+*.MOV binary
+*.mp4 binary
+*.ply binary
